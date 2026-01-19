@@ -4,7 +4,6 @@ int main() {
 	
 	int num, res;
 	int tab = 1;
-	
 	scanf("%d", &num);
 
 	while(tab <= 10) {
@@ -12,5 +11,4 @@ int main() {
 		tab++;
 		printf("%d. ", res);
 	}
-	
 }
